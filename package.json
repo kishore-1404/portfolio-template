@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-template",
+  "version": "1.0.0",
+  "description": "An interactive, 8-bit cyber-terminal portfolio template inspired by global surveillance trackers with interactive maps, audio logs, dossiers, and custom polygon borders.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishore-1404/portfolio-template.git"
+  },
+  "keywords": [
+    "portfolio-template",
+    "interactive-portfolio",
+    "retro-ui",
+    "pixel-art",
+    "cyber-terminal",
+    "astro",
+    "google-maps"
+  ],
+  "author": "Kishore & Anshul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kishore-1404/portfolio-template/issues"
+  },
+  "homepage": "https://github.com/kishore-1404/portfolio-template#readme"
+}
